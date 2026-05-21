@@ -27,14 +27,6 @@ Mahasiswi Teknik Informatika di Universitas Maritim Raja Ali Haji (UMRAH) Class 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deaa17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Mari Terhubung!
 
 - ✉️ **Email:** deazarifa1705@gmail.com
