@@ -1,16 +1,19 @@
-## Hi there 👋
+# Halo! Aku Dhiya Zarifa 👋
 
-<!--
-**deaa17/deaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswi di Universitas Maritim Raja Ali Haji (UMRAH) 🎓 yang tertarik dengan dunia teknologi dan pengembangan perangkat lunak.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=deaa17&show_icons=true&theme=radical&hide_border=true" alt="deaa17's GitHub Stats" />
+</p>
+
+### 📫 Mari Berteman!
+- **Email:** deazarifa1705@gmail.com
+- **Instagram:** [@deazhmf](https://instagram.com/deazhmf)
